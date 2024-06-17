@@ -1,1 +1,1 @@
-hii this is my first project in machine learning which is prediction of laptop prices based on different featuress
+prediction of laptop prices based on different featuress using machine learning algorithms
